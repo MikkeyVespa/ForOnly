@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(carnaby-82KWr7KHwDg-unsplash\ 1.png);
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    background-size: cover;
+}
+
+.round-button {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+    opacity: 0.7;
+    z-index: 1;
+    white-space: nowrap;
+}
+
+.bg-blue {
+    background-color: #3877EE;
+}
+
+.bg-green {
+    background-color: #6ABF4B;
+}
+
+.stadium {
+    position: absolute;
+    top: 52%;
+    left: 35%;
+}
+
+.left-building {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.seafront {
+    position: absolute;
+    top: 78%;
+    left: 23%;
+}
+
+.high-building {
+    position: absolute;
+    top: 24%;
+    left: 71%;
+}
+
+.railway-station {
+    position: absolute;
+    top: 43%;
+    left: 59%;
+}
+
+.round-building {
+    position: absolute;
+    top: 69%;
+    left: 56%;
+}
+
+.first-line-building {
+    position: absolute;
+    top: 86%;
+    left: 57%;
+}
+
+.second-line-building {
+    position: absolute;
+    top: 73%;
+    left: 68%;
+}
+
+.department {
+    position: absolute;
+    top: 51%;
+    left: 74%;
+}
+
+.right-building {
+    position: absolute;
+    top: 77%;
+    left: 83%;
+}
